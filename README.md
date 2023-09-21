@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Project idea 
+
+This project will help post tweet frequently
+
 ## Installation
 
 ```bash
